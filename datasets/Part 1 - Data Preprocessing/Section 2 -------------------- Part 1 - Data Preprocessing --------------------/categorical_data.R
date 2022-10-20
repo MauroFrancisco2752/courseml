@@ -1,5 +1,5 @@
 # Plantilla para el Pre Procesado de Datos - Datos Categóricos
-# Importar el dataset
+# Importar el dataset.
 dataset = read.csv('Data.csv', stringsAsFactors = F)
 
 str(dataset)
